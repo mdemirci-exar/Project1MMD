@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project1MMD", "Project1MMD.vcxproj", "{DE51929E-31D2-4499-9793-018F2E04C045}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Çözüm Öğeleri", "Çözüm Öğeleri", "{92C2E04D-FDBA-40C3-92BA-6CD38F0FBD6E}"
+	ProjectSection(SolutionItems) = preProject
+		MotionSensor.h = MotionSensor.h
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE51929E-31D2-4499-9793-018F2E04C045}.Debug|x64.ActiveCfg = Debug|x64
+		{DE51929E-31D2-4499-9793-018F2E04C045}.Debug|x64.Build.0 = Debug|x64
+		{DE51929E-31D2-4499-9793-018F2E04C045}.Debug|x86.ActiveCfg = Debug|Win32
+		{DE51929E-31D2-4499-9793-018F2E04C045}.Debug|x86.Build.0 = Debug|Win32
+		{DE51929E-31D2-4499-9793-018F2E04C045}.Release|x64.ActiveCfg = Release|x64
+		{DE51929E-31D2-4499-9793-018F2E04C045}.Release|x64.Build.0 = Release|x64
+		{DE51929E-31D2-4499-9793-018F2E04C045}.Release|x86.ActiveCfg = Release|Win32
+		{DE51929E-31D2-4499-9793-018F2E04C045}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C04514D-43EF-4116-9EDC-C871FF4C4B9E}
+	EndGlobalSection
+EndGlobal
